@@ -1,2 +1,2 @@
 # hello-world
-First timer
+First timer.  Well strated on this path to learnings a new skill.
